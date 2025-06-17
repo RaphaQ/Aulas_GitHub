@@ -42,3 +42,7 @@ git commit -m "frase do commit" (geralmente
 
 #para empurrar os arquivos da máquina local, para a pasa remota:
 git push origin master
+
+
+#criar e mudar para a branch criada ao mesmo tempo
+git checkout -b "nome da branch"
