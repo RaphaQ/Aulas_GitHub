@@ -18,7 +18,7 @@ Crie uma código que receba uma tupla e retorne a soma de todos os elementos.
 
 # soma = 0
 # for i in tupla:
-#     soma+=i
+#     soma+=ippppp
 # print(soma)
 
 '''
